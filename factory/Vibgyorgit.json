@@ -1,0 +1,9 @@
+{
+	"name": "Vibgyorgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7dcf5f8c-3d74-435d-be8a-97da883e497f",
+		"tenantId": "d7e63b7f-81b4-4464-adab-45b34be1a653"
+	}
+}
